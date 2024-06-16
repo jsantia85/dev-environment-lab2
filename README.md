@@ -1,6 +1,6 @@
 # dev-environment-lab
 
-![dev-lab-sc](dev-en-lab-sc)
+![dev-lab-sc](/dev-en-lab-sc.png)
 
 ## OS
 
